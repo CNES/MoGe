@@ -1,0 +1,6 @@
+[submodule "utils3d"]
+	path = third_party/utils3d
+	url = https://github.com/EasternJournalist/utils3d.git
+[submodule "pipeline"]
+	path = third_party/pipeline
+	url = https://github.com/EasternJournalist/pipeline.git
